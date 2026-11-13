@@ -1,0 +1,6 @@
+{
+  "name": "Атмосфера",
+  "description": "Современное приложение для просмотра погоды в регионе, почасового и недельного прогноза, качества воздуха и избранных городов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
